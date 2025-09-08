@@ -1,0 +1,23 @@
+#button_1{
+    background-color: rgb(133, 27, 27);
+    font-family:monospace;
+    color:white;
+    font-size: 50px;
+    font-weight:bold;
+    padding: 100px;
+    border-radius: 100px;
+    border-width: 20px;
+    border-color: #ce2b0e;
+    margin-left: 40%;
+    margin-top: 15%;
+}
+body{
+    background-color: black;
+}
+#paragraph_1{
+    color:rgb(255, 255, 255);
+}
+#body_2{
+    background-color: rgb(255, 212, 18);
+    margin-left: 35%;
+}
